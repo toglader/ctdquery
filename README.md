@@ -1,4 +1,4 @@
-# ctdquery
+# CTDQuery 
 
 `ctdquery` is a simple CLI tool to authenticate against a CTD API, fetch sites and assets, and pretty print results.
 
@@ -108,3 +108,12 @@ Run the program:
 ```bash
 ./ctdquery <host> --assets --pretty
 ```
+
+Contributions, pull requests, and suggestions are welcome.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0
+
+---
+© 2025 Tony Glader
